@@ -271,4 +271,3 @@ document.addEventListener('DOMContentLoaded', () => {
     // Optionally update initial active state
     // updateNavLinkActiveState();
 });
-
